@@ -1,4 +1,4 @@
-# portugal-local-elections-2013
+# Portugal Local Elections Data Analysis
 
 Data Sources:
 * http://www.dados.gov.pt
