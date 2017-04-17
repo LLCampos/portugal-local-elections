@@ -1,4 +1,4 @@
-,year,concelho,enrolled,voters,abstention_%,blank_votes,null_votes,party_initials,party_type,votes,votes_%,number_mandates,candidate_name,gender,position_ballot,problems_ballot_order
+INE_ID,year,concelho,enrolled,voters,abstention_%,blank_votes,null_votes,party_initials,party_type,votes,votes_%,number_mandates,candidate_name,gender,position_ballot,problems_ballot_order
 101,2005,ÁGUEDA,41809,25435,39.1638164032,619,372,CDS-PP,,1432,5.85828833252,0,,,,
 101,2005,ÁGUEDA,41809,25435,39.1638164032,619,372,PS,,11373,46.5267550319,4,,,,
 101,2005,ÁGUEDA,41809,25435,39.1638164032,619,372,PCP-PEV,,835,3.41597119948,0,,,,
