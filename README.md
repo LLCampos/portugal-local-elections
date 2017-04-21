@@ -7,6 +7,7 @@ Data on Portuguese Local Elections for "[Câmaras Municipais](https://en.wikiped
 List of analysis done on this data. 
 
 * [Portuguese Local Elections – Municipalities with more enrolled voters have a higher percentage of abstention](https://llcampos.wordpress.com/2017/04/12/portuguese-local-elections-municipalities-with-more-enrolled-voters-have-a-higher-percentage-of-abstention/)
+* [Portuguese Local Elections – Ballot Order Effects](https://llcampos.wordpress.com/2017/04/21/ballot-order-effects-in-portuguese-local-elections/)
 
 Fell free to pull request additions of other analyses. 
 
