@@ -43,7 +43,7 @@ Number of null votes.
 Letter by which the party is identified. 
 
 ### party_type
-TODO 
+This can be **Party** (a sole party), **Alliance** (a group of parties) or **Independent** (group of citizens not connected to a party)
 
 ### votes
 Number of people who voted in the party.
